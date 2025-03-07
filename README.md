@@ -5,7 +5,7 @@
 
 The **News Sentiment Analyzer** is a Python-based project that scrapes trending news headlines from BBC News, performs sentiment analysis, and visualizes the results. It provides insights into whether the news is generally positive, neutral, or negative, along with a word cloud of common keywords.
 
-This project demonstrates my skills in web scraping, natural language processing (NLP), data visualization, and Python scripting.
+This project demonstrates my skills in web scraping, natural language processing (NLP), data visualization and Python scripting.
 
 ---
 
